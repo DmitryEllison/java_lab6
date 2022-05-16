@@ -1,0 +1,4 @@
+-show
+-insert New way {7,7;;Чебоксары,777,77;2727}
+-show
+-exit

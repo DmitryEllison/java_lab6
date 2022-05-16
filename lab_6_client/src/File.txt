@@ -1,0 +1,5 @@
+-skip Name of Route;ID;Coordinates;Creation Date;from;to;distance
+Way 2;874590;10,15F;2022-02-19;null;NYC,10F,10;5
+Way 1;874591;0,0F;2001-02-09;null;Москва,12F,109;76
+Way 3;1;0,0F;2001-02-09;null;Москва,12F,109;76
+Way 4;591;0,0F;2001-02-09;null;Москва,12F,109;76
